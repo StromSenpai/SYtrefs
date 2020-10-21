@@ -1,0 +1,113 @@
+body{
+    background: #1d1d1d url(6.gif)no-repeat;
+    background-size: 100%; 
+    background-attachment: fixed;
+ }   
+leg{
+    color:honeydew;
+}
+footer{
+    padding: 0.8%;
+        color:honeydew ;
+    background-color: #242424;
+    }
+header{
+color:honeydew;
+background-color: #1d1d1d;
+    }
+li{
+color: honeydew;
+}
+.color_p{
+    color: honeydew;
+    padding: 5px;
+    background-color: #242424;
+    border-radius: 4px ;
+    margin: 4px;
+    text-decoration: dashed;
+    width: 70%;
+}
+.gertform{
+    color: chartreuse;
+    padding: 5px;
+    background-color: #242424b7;
+    border-radius: 4px;
+    margin: 4px;
+    text-decoration: dashed;
+    width: 38%;
+}
+.aner {
+    color:honeydew;
+    font-size: 25px;
+    border: 3px solid darkorange ;
+    background-color: black;
+    border-radius: 2px;
+    line-height: 40px;
+}
+.fieldset{
+    background-color: rgba(68, 68, 68, 0.5) ;
+    border-radius: 4px;
+    border:2px solid #ff8800;
+    margin: 4px;
+    text-decoration: dashed;
+}
+
+.hodor{
+    font-size: 67px; 
+    color:honeydew; 
+    font-style: italic;
+}
+.logo {
+    color:red;
+    width: 200px;
+    border-radius: 20px;
+}
+#fonger1{
+    color: darkblue;
+    cursor: pointer;
+}
+#fonger1:hover{
+    transition: all 0.3s;
+    color: rgb(255, 0, 0);
+}
+#fonger2{
+    color: darkblue;
+    cursor: pointer;
+}
+#fonger2:hover{
+    transition: all 0.3s;
+    color: red;
+}
+a:hover{ 
+    color:#ff8800;
+}
+a:visited{
+    color:#ee1100;
+}
+
+.menu{
+    padding: 1%;
+    padding-right: 10%;
+        color:honeydew;
+        overflow: hidden;
+        cursor: default;
+        font-size: 25px;
+        line-height: 40px;
+       
+    }
+.menu > a{
+       display: none;
+    
+    }
+.menu:hover a{
+        display: inline ;
+    }
+ 
+
+fieldset > img{
+    border-radius: 2px;
+    border: 3px solid #ff8800;
+}
+legend{
+    color: honeydew;
+}
