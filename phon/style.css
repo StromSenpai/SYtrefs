@@ -12,6 +12,7 @@ footer{
     background-color: #242424;
     }
 header{
+    padding: 0.3%;
 color:honeydew;
 background-color: #1d1d1d;
     }
@@ -37,7 +38,7 @@ color: honeydew;
     width: 38%;
 }
 .aner {
-    color:honeydew;
+    color:#ffcc00;
     font-size: 25px;
     border: 3px solid darkorange ;
     background-color: black;
@@ -93,7 +94,7 @@ a:visited{
         cursor: default;
         font-size: 25px;
         line-height: 40px;
-       
+       color:#ff8800;
     }
 .menu > a{
        display: none;
@@ -110,4 +111,8 @@ fieldset > img{
 }
 legend{
     color: honeydew;
+}
+.tomail{
+color:#ffcc00;
+font-size: 14px;
 }
